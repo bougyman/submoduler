@@ -1,0 +1,26 @@
+# Temporary files
+/tmp/
+
+# swap files
+*.swp
+
+# Gem / Bundler artifacts
+Gemfile.lock
+/.bundle/
+/pkg/
+*.gem
+
+# Test artifacts
+/coverage/index.html
+/coverage/assets
+/coverage/.last_run.json
+/coverage/.resultset.json
+/coverage/.resultset.json.lock
+
+# Documentation artifacts
+/.yardoc
+/_yardoc/
+/doc/
+
+# dotenv
+.envrc
