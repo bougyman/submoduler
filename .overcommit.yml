@@ -317,6 +317,7 @@ PrePush:
     enabled: false
   ProtectedBranches:
     enabled: true
+    branch_patterns: ['main', 'master']
   PubTest:
     enabled: false
   Pytest:
