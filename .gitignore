@@ -21,6 +21,7 @@ Gemfile.lock
 /.yardoc
 /_yardoc/
 /doc/
+Readme.html
 
 # dotenv
 .envrc
